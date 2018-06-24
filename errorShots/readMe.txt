@@ -1,0 +1,1 @@
+Capture screenshots from browse and attach to reports.
