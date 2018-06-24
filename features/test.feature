@@ -9,4 +9,4 @@ Scenario: First Scenario
 
 Scenario: Second Scenario
   
-  When I search for another new result "Grand Prix"
+  When I search for new result "Grand Prix"
