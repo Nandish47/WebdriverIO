@@ -13,6 +13,7 @@ defineSupportCode(function({Given, When, Then}) {
     When(/^I search for another new result \"([^\"]*)\"$/, (text) => {
       browser.setValue('#lst-ib', text);
       browser.pause(5000);
+      expect(1).to.equal(2)
     });
 
 });
