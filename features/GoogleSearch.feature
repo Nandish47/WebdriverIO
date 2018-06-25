@@ -1,4 +1,4 @@
-Feature: Cucumber proof of concept
+Feature: Google Search
 
 Background:
   Given I navigate to Google
